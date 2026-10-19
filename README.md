@@ -86,10 +86,6 @@ passed to Keras as validation data. The corresponding curves
 therefore do not constitute an additional, untouched final test
 evaluation.
 
-The project focuses on image classification, not on omics data.
-It provides a practical foundation in deep learning that can be
-extended to other scientific data-analysis tasks.
-
 ## Academic context
 
 Practical project within the Mathematical Data Science
